@@ -1,0 +1,18 @@
+.container {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
+  .itemContainer {
+    width: 100%;
+    position: relative;
+  }
+  .btn {
+    position: absolute;
+    border: none;
+    border-radius: 9999px;
+    top: 0;
+    right: 10px;
+    background-color: transparent;
+    cursor: pointer;
+    display: block;
+  }
